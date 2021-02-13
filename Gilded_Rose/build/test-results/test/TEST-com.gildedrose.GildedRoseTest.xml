@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="55" skipped="0" failures="0" errors="0" timestamp="2021-02-01T04:52:05" hostname="News-MBP.gv.shawcable.net" time="0.34">
+  <properties/>
+  <testcase name="Aged_Brie_one_day()" classname="com.gildedrose.GildedRoseTest" time="0.035"/>
+  <testcase name="foo()" classname="com.gildedrose.GildedRoseTest" time="0.013"/>
+  <testcase name="Ordinary_Item_lose_quality_two_test(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.038"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.003"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[2]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[3]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[4]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[5]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[6]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[7]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[8]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[9]" classname="com.gildedrose.GildedRoseTest" time="0.003"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[10]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[11]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[12]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[13]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[14]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[15]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[16]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[17]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[18]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[19]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="updateQuality_with_AgedBrie_Multiple_days_and_doesnt_exceed_fifty(int)[20]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[2]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[3]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[4]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="legendaryQualityCheckBetter(int)[5]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[6]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="legendaryQualityCheckBetter(int)[7]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[8]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="legendaryQualityCheckBetter(int)[9]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="legendaryQualityCheckBetter(int)[10]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Backstage_passes_update_after_twelve_days(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Backstage_passes_update_after_fourteen_days(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[1]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[2]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[3]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[4]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[5]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[6]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[7]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[8]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[9]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[10]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[11]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[12]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[13]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[14]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[15]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[16]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[17]" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[18]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[19]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="Ordinary_Item_lose_quality_test_and_not_go_below_zero(int)[20]" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <system-out><![CDATA[foo
+6
+14
+28
+44
+50
+50
+50
+32
+50
+50
+38
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+0
+19
+18
+16
+14
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
